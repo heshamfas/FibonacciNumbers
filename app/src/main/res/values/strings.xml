@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FibonacciNumbers</string>
+    <string name="fibonacci">"Welcome to Fibonacci \n Please write a number from 1 to 20 "</string>
+    <string name="back">back</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="title_activity_list_fibonacci">ListFibonacci</string>
+    <string name="hello_world">Listing Fibonacci</string>
+
+</resources>
